@@ -26,7 +26,7 @@
 -   ![Vimeo](https://img.shields.io/badge/Vimeo-1AB7EA?style=plastic&logo=vimeo&logoColor=white)
 -   ![http](https://img.shields.io/badge/http-FFA500?style=plastic&logo=http&logoColor=white)
 -   ![Deezer](https://img.shields.io/badge/Deezer-FF0000?style=plastic&logo=deezer&logoColor=white)
--   ![And More!](https://img.shields.io/badge/More-e130e7?style=plastic&logo=deezer&logoColor=white)
+-   ![And More!](https://img.shields.io/badge/And-More!-e130e7?style=plastic&logo=deezer&logoColor=white)
 
 ## 🛠️ Info:
 
