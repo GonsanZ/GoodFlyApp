@@ -1,32 +1,20 @@
 [# GoodFly](https://github.com/user-attachments/assets/a7b766c4-f0a4-4e5f-9b05-6a7c29a21db4)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<h2 id="features">🔔 Funciones (no exhaustivas, siempre agregando más)</h2>
+<h2 id="features">🔔 Funciones (no exhaustivas, siempre agregando más. Update v2)</h2>
 
 - Fácil instalación.
-- Configuraciones con persistencia.
-- Más de 60 filtros de audio en total.
-- Soporte para múltiples servidores.
-- Saltar votación.
-- Búsqueda, reproducción y autocompletado de letras habilitado.
-- Buscar botones de reproducción.
-- Funciones de DJ.
-- Canales de música dedicados.
-- Sesiones de hilo.
-- Reproducción automática (24 horas al día, 7 días a la semana.)
-- Filtro biquad + Ecualizador.
-- 4 modos de repetición/bucle.
-- Historial de seguimiento completo.
-- Comandos de barra diagonal y componentes modernos de Discord.
-- Letra.
-- Volumen (persistente).
-- Control total de reproducción.
- - con más de 20 comandos de control como:
- - `/pause`
- - `/skip-to`
- - `/swap-songs`
- - y mucho más..
-- Guarda canciones enviándolas a tus DM.
+- Soporte multiservidores.
+- Integración de letras de canciones Genius.
+- Controlador de volumen.
+- Control total del reproductor con pausa, búsqueda y control de volumen.
+- Soporte de cola para saltar, regresar a la canción anterior, ver canciones en cola, barajar cola, borrar cola, agregar canciones al final de la cola o a la siguiente posición en la cola.
+- Estadísticas de escucha que te permiten ver cuántas canciones has escuchado, cuántas canciones te has saltado y cuántas veces has cambiado la cola.
+- Guardar canciones en sus mensajes directos para consultarlas más tarde.
+- Más de 20 efectos para darle vida a tu música.
+- Autocompletar búsqueda.
+- Integración de listas de reproducción que permite reproducir aleatoriamente y en bucle.
+- y mucho más..
   
 ## 🎶 Fuentes:
 
