@@ -6,7 +6,7 @@
 ## ✨ Características
 
 ### 🎶 Música
-- Reproduce canciones o listas de reproducción de YouTube, Spotify, SoundCloud, estaciones de radio o URL directas.
+- Reproduce canciones o listas de reproducción de <b>YouTube, Spotify, SoundCloud</b>, estaciones de radio o URL directas.
 - Controles de botones intuitivos para una gestión de música perfecta.
 
 ### 👋 Sistema de bienvenida
