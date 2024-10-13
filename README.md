@@ -1,20 +1,34 @@
 [# GoodFly](https://github.com/user-attachments/assets/a7b766c4-f0a4-4e5f-9b05-6a7c29a21db4)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<h2 id="features">🔔 Funciones (no exhaustivas, siempre agregando más. Update v2)</h2>
+<h2 id="features">🔔 Funciones (Update v2)</h2>
 
-- Fácil instalación.
-- Soporte multiservidores.
-- Integración de letras de canciones Genius.
-- Controlador de volumen.
-- Control total del reproductor con pausa, búsqueda y control de volumen.
-- Soporte de cola para saltar, regresar a la canción anterior, ver canciones en cola, barajar cola, borrar cola, agregar canciones al final de la cola o a la siguiente posición en la cola.
-- Estadísticas de escucha que te permiten ver cuántas canciones has escuchado, cuántas canciones te has saltado y cuántas veces has cambiado la cola.
-- Guardar canciones en sus mensajes directos para consultarlas más tarde.
-- Más de 20 efectos para darle vida a tu música.
-- Autocompletar búsqueda.
-- Integración de listas de reproducción que permite reproducir aleatoriamente y en bucle.
-- y mucho más..
+## ✨ Características
+
+### 🎶 Música
+- Reproduce canciones o listas de reproducción de YouTube, Spotify, SoundCloud, estaciones de radio o URL directas.
+- Controles de botones intuitivos para una gestión de música perfecta.
+
+### 👋 Sistema de bienvenida
+- Establece mensajes personalizados de bienvenida, salida y prohibición para saludar y administrar tu comunidad.
+
+### 🎙️ Salas automáticas
+- Crea canales de voz temporales para tus miembros sin esfuerzo.
+
+### 🎁 Sorteos
+- Organiza emocionantes sorteos con opciones para crearlos, administrarlos, renovarlos y eliminarlos.
+
+### 🎫 Tickets
+- Implementa un sistema de tickets sencillo con botones fáciles de usar.
+
+### 🔨 Moderación
+- Comandos para prohibir, expulsar y cronometrar usuarios para mantener tu servidor bajo control.
+
+### 🤖 AutoRole
+- Asigna roles automáticamente a los nuevos miembros al unirse.
+
+### ⬆️ Niveles
+- Involucra a tu comunidad con un divertido sistema de niveles.
   
 ## 🎶 Fuentes:
 
