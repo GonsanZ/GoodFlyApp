@@ -1,34 +1,19 @@
 [# GoodFly](https://github.com/user-attachments/assets/a7b766c4-f0a4-4e5f-9b05-6a7c29a21db4)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<h2 id="features">🔔 Actualización v2.1</h2>
+<h2 id="features">🔔 Actualización v2.2</h2>
 
-## ✨ Características
-
-### 🎶 Música
-- Reproduce canciones o listas de reproducción de <b>YouTube, Spotify, SoundCloud</b>, estaciones de radio o URL directas.
-- Controles de botones intuitivos para una gestión de música perfecta.
-
-### 👋 Sistema de bienvenida
-- Establece mensajes personalizados de bienvenida, salida y prohibición para saludar y administrar tu comunidad.
-
-### 🎙️ Salas automáticas
-- Crea canales de voz temporales para tus miembros sin esfuerzo.
-
-### 🎁 Sorteos
-- Organiza emocionantes sorteos con opciones para crearlos, administrarlos, renovarlos y eliminarlos.
-
-### 🎫 Tickets
-- Implementa un sistema de tickets sencillo con botones fáciles de usar.
-
-### 🔨 Moderación
-- Comandos para prohibir, expulsar y cronometrar usuarios para mantener tu servidor bajo control.
-
-### 🤖 AutoRole
-- Asigna roles automáticamente a los nuevos miembros al unirse.
-
-### ⬆️ Niveles
-- Involucra a tu comunidad con un divertido sistema de niveles.
+## 🔥 Funciones
+- Soporte multiplataforma: transmita música desde <b>YouTube, SoundCloud, Spotify, Apple Music, Deezer y más de 700 sitios web adicionales</b>.
+- Compatibilidad con listas de reproducción: reproduzca listas de reproducción completas desde URL compatibles.
+- Reproducción de URL de Discord: reproduce música directamente desde los enlaces de Discord.
+- Fácil de usar: Diseñado para facilitar su uso, haciéndolo accesible para todos.
+- Reproducción automática: continúa reproduciendo canciones automáticamente según sus preferencias de escucha.
+- Filtros de audio: aplique varios filtros para mejorar su experiencia auditiva.
+- Navegación de canciones: salta fácilmente hacia adelante o hacia atrás a través de las pistas.
+- Gestión de colas: cree y administre una cola de canciones para una reproducción ininterrumpida.
+- Modo aleatorio: disfrute de una experiencia de reproducción aleatoria con la función aleatoria.
+- Y muchas más funciones esperándote...
   
 ## 🎶 Fuentes:
 
