@@ -1,7 +1,7 @@
 <h3 id="features"><b>GoodFly</b> es un bot de música de alta calidad multiplataforma y fácil de usar para darle vida a la experiencia musical de su servidor.</h3>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## 🔥 Funciones
+## 🔥 Funciones (v2.2 en desarrollo)
 - Soporte multiplataforma: transmita música desde <b>YouTube, SoundCloud, Spotify, Apple Music, Deezer y más de 700 sitios web adicionales</b>.
 - Compatibilidad con listas de reproducción: reproduzca listas de reproducción completas desde URL compatibles.
 - Reproducción de URL de Discord: reproduce música directamente desde los enlaces de Discord.
