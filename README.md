@@ -1,7 +1,5 @@
-[# GoodFly](https://github.com/user-attachments/assets/a7b766c4-f0a4-4e5f-9b05-6a7c29a21db4)
-
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<h2 id="features">🔔 Actualización v2.2 ()</h2>
+<h2 id="features">🔔 Actualización v2.2</h2>
 
 ## 🔥 Funciones
 - Soporte multiplataforma: transmita música desde <b>YouTube, SoundCloud, Spotify, Apple Music, Deezer y más de 700 sitios web adicionales</b>.
