@@ -1,4 +1,4 @@
-<h3 id="features"><b>GoodFly</b> es un bot de música de alta calidad multiplataforma y fácil de usar para darle vida a la experiencia musical de su servidor.</h3>
+<h3 id="features"><b>KiKiPlay</b> es una bot de música de alta calidad multiplataforma y fácil de usar para darle vida a la experiencia musical de su servidor.</h3>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## 🔥 Funciones
@@ -36,10 +36,8 @@
 -   ![Apple Music](https://img.shields.io/badge/Apple%20Music-000000?style=plastic&logo=apple-music&logoColor=white)
 -   ![Bandcamp](https://img.shields.io/badge/Bandcamp-629AA9?style=plastic&logo=bandcamp&logoColor=white)
 -   ![Vimeo](https://img.shields.io/badge/Vimeo-1AB7EA?style=plastic&logo=vimeo&logoColor=white)
--   ![Deezer](https://img.shields.io/badge/Deezer-FF0000?style=plastic&logo=deezer&logoColor=white)
+-   ![Deezer](https://img.shields.io/badge/Deezer-FF0000?style=plastic&logo=deezer&logoColor=white)  
 
 ## 🛠️ Info:
 
-🌐 [Web](https://goodflyapp.com/)
-<br>
-🌐 [Soporte](https://instagram.com/goodfly.ar)
+🌐 [Invite]([https://goodflyapp.com/](https://discord.com/oauth2/authorize?client_id=1262118026556477540&scope=bot&permissions=285618564112))
