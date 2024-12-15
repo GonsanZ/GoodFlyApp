@@ -40,4 +40,4 @@
 
 ## 🛠️ Info:
 
-🌐 [Invite]([https://goodflyapp.com/](https://discord.com/oauth2/authorize?client_id=1262118026556477540&scope=bot&permissions=285618564112))
+🌐 [Invitame](https://discord.com/oauth2/authorize?client_id=1262118026556477540&scope=bot&permissions=285618564112)
